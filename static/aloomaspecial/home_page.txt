@@ -1,0 +1,49 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. How much does a dumpster rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The price of a dumpster rental depends on your location, the size of the container, the type of debris, and the rental duration. Rates typically include delivery, pickup, and a set weight limit. For the most accurate pricing, please request a quote specific to your zip code and project scope.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What sizes of dumpsters are available for rent?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer a range of sizes to suit various projects, including 10 yard, 20 yard, 30 yard, and 40 yard roll off dumpsters. A 10 yard bin is best for heavy debris or small cleanups, while 30 and 40 yard bins are suited for large construction or demolition projects.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. What items are not allowed in a roll off dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You cannot dispose of hazardous materials, including paint, tires, car batteries, asbestos, motor oil, and sealed tanks. Mixing these items with general waste can result in significant fines or refusal of service at the landfill.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Do I need a permit to rent a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you plan to place the dumpster on your private driveway, a permit is usually not required. However, if the bin needs to sit on a public street, sidewalk, or alley, you will likely need a right-of-way permit from your local city government.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. How long can I keep the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard rental periods typically range from 7 to 10 days, but this varies by location. If your project extends beyond the agreed timeframe, you can often extend the rental for a daily flat rate fee by contacting our customer service team.</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. How high can I load the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Debris should not exceed the top rim of the dumpster. Overloading the container creates safety hazards during transport and may result in the driver refusing to pick it up until the excess waste is removed to a level load.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
